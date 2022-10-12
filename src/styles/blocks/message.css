@@ -1,0 +1,8 @@
+.message {
+  padding: 8px 15px;
+  background-color: var(--message-bot-background);
+  border: 1px solid var(--dark-blue);
+  border-radius: var(--border-radius);
+  width: fit-content;
+  border-bottom-left-radius: 0;
+}

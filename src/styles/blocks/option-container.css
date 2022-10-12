@@ -1,0 +1,12 @@
+.option-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+@media (max-width: 450px) {
+  .option-container {
+    left: 20%;
+    position: relative;
+  }
+}

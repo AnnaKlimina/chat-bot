@@ -1,0 +1,12 @@
+body {
+  --light-blue: #e6f7ff;
+  --blue: #61c7ee;
+  --dark-blue: #006999;
+
+  --font-color: #035a83;
+  --scrollbar: #429daa;
+  --scrollbar-thumb-light: #72c5d1;
+  --scrollbar-thumb-dark: #478891;
+  --message-bot-background: #e4f7ff;
+  --message-user-background: #71cde3;
+}

@@ -1,0 +1,13 @@
+@import url("./common/colors.css");
+@import url("./common/common.css");
+
+@import url("./blocks/page.css");
+@import url("./blocks/chat-wrapper.css");
+@import url("./blocks/message-container.css");
+@import url("./blocks/message.css");
+@import url("./blocks/option-container.css");
+@import url("./blocks/option.css");
+@import url("./blocks/chatbot.css");
+@import url("./blocks/logo.css");
+
+@import url("./common/modifier.css");
